@@ -1,6 +1,6 @@
 import sqlite3
 
-# Connect to the database
+# Co
 
 conn = sqlite3.connect('example.db')
 
